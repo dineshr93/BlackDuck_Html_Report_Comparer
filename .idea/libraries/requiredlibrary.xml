@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="requiredlibrary">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../BOMDBCreator/requiredlibrary" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../BOMDBCreator/requiredlibrary" recursive="false" />
+  </library>
+</component>
